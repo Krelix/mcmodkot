@@ -1,0 +1,12 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "mcmodkot:pedestal"
+    },
+    "inventory": {
+      "model": "mcmodkot:pedestal",
+      "transform": "forge:default-block"
+    }
+  }
+}
